@@ -1,0 +1,8 @@
+body{
+    background-color: bisque;
+}
+@media (max-width:425px) {
+    body{
+        background-color: aqua;
+    }
+}
